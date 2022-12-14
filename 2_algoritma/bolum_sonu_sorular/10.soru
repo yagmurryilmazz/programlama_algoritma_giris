@@ -5,4 +5,3 @@ if(int(sayi)%2==0):
       print("Sayı Çift")  #Girilen sayı çift ise ekrana "Sayı Çift" yaz.
 else:
       print("Sayı Tek")  #Girilen sayı tek ise ekrana "SayıTek" yaz.
-
